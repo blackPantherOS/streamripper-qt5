@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=StreamRipper Qt5
+Comment=Graphically Stream Ripper
+Comment[bg]=Запис на Интернет радио Qt5
+Comment[hu]=Grafikus adatfolyam rippelő
+GenericName=Record Internet Radio or any Streams
+GenericName[bg]=Запис на Интернет радио
+GenericName[hu]=Felvétel intenret rádió vagy más adatfolyamról
+Exec=streamripper-qt5 %f
+Icon=media-record
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=AudioVideo;Audio;X-blackPantherOS-Multimedia-Sound;
+
